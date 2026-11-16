@@ -1,7 +1,9 @@
-# P1_reader-smart-meter on ESP32
+# ESP32_P1_reader
 The purpose is to read the output of the P1 connector of smart-meter
 
 
+
+for the connectic see shema.gif
 
 
 RJ11 connector
